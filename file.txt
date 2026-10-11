@@ -1,4 +1,4 @@
 hi giys, devops training
 trainer started Git course
 
-new line for testing
+devp[s. branching, pull request
