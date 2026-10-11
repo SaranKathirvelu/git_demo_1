@@ -1,2 +1,4 @@
- giys, devops training
+hi giys, devops training
 trainer started Git course
+
+new line for testing
