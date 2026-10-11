@@ -1,2 +1,2 @@
-hello , giys, devops training
+ giys, devops training
 trainer started Git course
